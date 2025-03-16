@@ -1,0 +1,10 @@
+# Ignore Unity auto-generated folders
+Library/
+Logs/
+Temp/
+obj/
+UserSettings/
+.vsconfig
+*.csproj
+*.sln
+*.unitypackage

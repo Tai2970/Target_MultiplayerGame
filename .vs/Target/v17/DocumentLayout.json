@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\truon\\Unity Project\\Target\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|C:\\Users\\truon\\Unity Project\\Target\\assets\\scripts\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gametimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|c:\\users\\truon\\unity project\\target\\assets\\scripts\\destroyafterseconds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyafterseconds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|C:\\Users\\truon\\Unity Project\\Target\\assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|C:\\Users\\truon\\Unity Project\\Target\\assets\\scripts\\tankmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tankmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|C:\\Users\\truon\\Unity Project\\Target\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|C:\\Users\\truon\\Unity Project\\Target\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|C:\\Users\\truon\\Unity Project\\Target\\assets\\scripts\\tankhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tankhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|C:\\Users\\truon\\Unity Project\\Target\\assets\\scripts\\tankshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tankshooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|C:\\Users\\truon\\Unity Project\\Target\\assets\\scripts\\targetspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\targetspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|C:\\Users\\truon\\Unity Project\\Target\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|C:\\Users\\truon\\Unity Project\\Target\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|C:\\Users\\truon\\Unity Project\\Target\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50FDAC5-4583-16C4-CA72-83DA3510784E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\GameScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestroyAfterSeconds.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\DestroyAfterSeconds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyAfterSeconds.cs",
+              "ToolTip": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\DestroyAfterSeconds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyAfterSeconds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T07:06:43.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameTimer.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\GameTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameTimer.cs",
+              "ToolTip": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\GameTimer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameTimer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:13:10.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TankMovement.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\TankMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TankMovement.cs",
+              "ToolTip": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\TankMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TankMovement.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:03:55.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:52:55.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Target.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\Target.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Target.cs",
+              "ToolTip": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\Target.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Target.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAzwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:14:05.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T02:47:42.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TankHealth.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\TankHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TankHealth.cs",
+              "ToolTip": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\TankHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TankHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:49:22.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TankShooting.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\TankShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TankShooting.cs",
+              "ToolTip": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\TankShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TankShooting.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:37:09.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TargetSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\TargetSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TargetSpawner.cs",
+              "ToolTip": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\TargetSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TargetSpawner.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAzwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:15:01.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:50:15.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\GameScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScoreManager.cs",
+              "ToolTip": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\GameScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:18:13.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:37:16.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\truon\\Unity Project\\Target\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:26:29.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
