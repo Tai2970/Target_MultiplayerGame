@@ -34,7 +34,7 @@ At the end of the timer, the game announces the **winner** or a **draw** based o
 - Click **"Open Project"** and select the extracted folder.  
 - Wait for Unity to load the project.  
 
-### **⚠ Important: Set Up the Scene in Unity**
+### **Important: Set Up the Scene in Unity**
 - **After opening the project, Unity may not load the correct scene by default.**  
 - To fix this, go to:  
   **Assets → Scenes → MainMenu** and **double-click** to open the Main Menu scene.  
