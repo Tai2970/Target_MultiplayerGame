@@ -1,3 +1,7 @@
+Here’s the **final updated README** including the **Scene Setup** after opening the game in Unity.
+
+---
+
 # **Multiplayer Tank Game**  
 
 A **2D multiplayer tank battle game** built in **Unity** using **Netcode for Networking**.  
@@ -34,9 +38,16 @@ At the end of the timer, the game announces the **winner** or a **draw** based o
 - Click **"Open Project"** and select the extracted folder.  
 - Wait for Unity to load the project.  
 
+### **⚠ Important: Set Up the Scene in Unity**
+- **After opening the project, Unity may not load the correct scene by default.**  
+- To fix this, go to:  
+  **Assets → Scenes → MainMenu** and **double-click** to open the Main Menu scene.  
+- Ensure the scene loads properly in the **Hierarchy** before running the game.  
+
 ### **Step 3: Build the Game**
 - In Unity, go to **File → Build Settings**.  
 - Select **Windows, Mac, or Linux Standalone** as the platform.  
+- Ensure **MainMenu** and **Game Scene** are added to the **Scenes in Build** list.  
 - Click **"Build"**, choose a location, and wait for the process to finish.  
 
 ### **Step 4: Run the Game**
@@ -61,5 +72,3 @@ At the end of the timer, the game announces the **winner** or a **draw** based o
 ---
 
 ## **Project by Tai Truong**  
-
-**Now: Update the README on GitHub, commit the changes, and send me a final screenshot!** 
