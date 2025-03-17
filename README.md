@@ -1,6 +1,6 @@
-# **Multiplayer Tank Game**  
+# **Target_MultiplayerGame**  
 
-A **2D multiplayer tank battle game** built in **Unity** using **Netcode for Networking**.  
+A **2D Target_MultiplayerGame** built in **Unity** using **Netcode for Networking**.  
 Players compete in a **60-second timed battle**, shooting **moving targets** and **each other** to score points.  
 At the end of the timer, the game announces the **winner** or a **draw** based on the highest score.
 
@@ -64,6 +64,17 @@ At the end of the timer, the game announces the **winner** or a **draw** based o
 2. Run the game on **Device 2** and click **"Client"**.  
 3. Ensure both devices are connected to the **same network**.  
 4. Both players can now move, shoot, and compete.  
+
+## Gameplay Demo
+
+Watch the **Target_MultiplayerGame** in action:
+
+- **[Host Gameplay] https://drive.google.com/file/d/1k6lQjdAdVAjbshDjEMsTR2LSl_Ro4qCp/view?usp=sharing**
+- **[Client Gameplay] https://drive.google.com/file/d/1Bwn8njufXXKkwOhhbb5Sg87om1cyIQU5/view?usp=sharing**
+
+
+
+
 
 ---
 
