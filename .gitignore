@@ -8,3 +8,5 @@ UserSettings/
 *.csproj
 *.sln
 *.unitypackage
+.vs/
+
