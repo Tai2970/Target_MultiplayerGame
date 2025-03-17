@@ -123,20 +123,31 @@ public class GameTimer : NetworkBehaviour
         }
     }
 
-    // Ensure BOTH Host & Client return to the Main Menu
+    // Ensure BOTH Host & Client return to the Main Menu and clean up networked objects
     private IEnumerator ReturnToMainMenu()
     {
         yield return new WaitForSeconds(5f);
 
         if (IsServer)
         {
-            // If Host, disconnect all players and return to menu
+            // Despawn all existing tanks before returning to Main Menu
+            TankMovement[] tanks = FindObjectsOfType<TankMovement>();
+            foreach (TankMovement tank in tanks)
+            {
+                if (tank.TryGetComponent<NetworkObject>(out NetworkObject networkObject))
+                {
+                    networkObject.Despawn();
+                    Destroy(tank.gameObject);
+                }
+            }
+
+            // Shutdown network and reload main menu
             NetworkManager.Singleton.Shutdown();
             UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
         }
         else
         {
-            // If Client, manually disconnect and return to menu
+            // Client manually disconnects and reloads the main menu
             NetworkManager.Singleton.Shutdown();
             UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
         }
