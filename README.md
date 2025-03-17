@@ -1,7 +1,3 @@
-Here’s the **final updated README** including the **Scene Setup** after opening the game in Unity.
-
----
-
 # **Multiplayer Tank Game**  
 
 A **2D multiplayer tank battle game** built in **Unity** using **Netcode for Networking**.  
